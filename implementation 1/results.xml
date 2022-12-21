@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1671120275" />
+    <testcase name="test_alu" classname="test_alu" file="E:\EECE_2023_4thyear_1stterm\Siemens_Graduation_Project\ALU_TESTBENCH_TB\test_alu.py" lineno="198" time="10.650198698043823" sim_time_ns="80000.001" ratio_time="7511.597038531686" />
+  </testsuite>
+</testsuites>
